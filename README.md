@@ -69,34 +69,35 @@ ContextAI is the tool I wished I had: upload your papers once, ask a question in
 ![Landing Page](images/landing.png)
 
 A clean starting point—upload your documents and start asking questions.
----
 
+---
 
 ### 2. Documents Uploaded
 ![Documents Uploaded](images/uploaded.png)
 
 Multiple PDFs uploaded and ready to be indexed.
----
 
+---
 
 ### 3. Indexed Knowledge Base
 ![Indexed Documents](images/indexed.png)
 
 Documents processed and indexed. Displays per-document statistics—including page count, chunk count, and file size—showing exactly what entered the retrieval pipeline.
----
 
+---
 
 ### 4. Answer with Source Attribution
 ![Answer with Sources](images/answer.png)
 
 The core feature: an answer synthesized across documents, backed by the exact source passages and page numbers it came from.
----
 
+---
 
 ### 5. Conversational Follow-up
 ![Conversational Follow-up](images/followup.png)
 
 Follow-up questions are resolved using conversation history while maintaining source attribution across every turn.
+
 ---
 
 
