@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is aphantasia and how does it affect people's experience of visual imagery?",
+    "expected_answer": "Aphantasia is a condition where people lack the experience of visual imagery, meaning they cannot imagine or visualize things in their mind. This condition affects a small group of otherwise healthy people, and research suggests that it is a genuine lack of sensory and phenomenal imagery, rather than a lack of metacognition.",
+    "source": "The blind mind No sensory visual imagery in aphantasia.pdf"
+  },
+  {
+    "question": "How did the researchers measure sensory imagery in people with aphantasia?",
+    "expected_answer": "The researchers used the binocular rivalry paradigm and multiple questionnaires, including the VVIQ, SUIS, and OSIQ, to measure sensory imagery in people with aphantasia. They found that aphantasics showed almost no imagery-based rivalry priming and had significantly lower self-rated visual object imagery scores, but higher spatial imagery scores.",
+    "source": "The blind mind No sensory visual imagery in aphantasia.pdf"
+  },
+  {
+    "question": "Why is the study of visual imagery important, and what are its implications?",
+    "expected_answer": "The study of visual imagery is important because it has been shown to impact subsequent perception, cognitive functions such as visual memory and spatial navigation, and is closely related to language comprehension, moral decision-making, and psychological and neurological disorders. Understanding visual imagery can also inform the development of cognitive behavioral therapies.",
+    "source": "The blind mind No sensory visual imagery in aphantasia.pdf"
+  },
+  {
+    "question": "How does the concept of aphantasia relate to the historical debate about the nature of visual imagery?",
+    "expected_answer": "The concept of aphantasia is relevant to the historical debate about the nature of visual imagery, which centered on whether imagery is depictive or propositional in nature. The existence of aphantasia suggests that some people may not experience visual imagery in a depictive way, which could be related to the perspectives of researchers like Watson and Pylyshyn who argued that imagery is propositional.",
+    "source": "The blind mind No sensory visual imagery in aphantasia.pdf"
+  },
+  {
+    "question": "What do the findings of this study suggest about the underlying neurological cause of aphantasia?",
+    "expected_answer": "The study's findings suggest that aphantasia is a condition involving a lack of sensory and phenomenal imagery, rather than a lack of metacognition. The underlying neurological cause of aphantasia is not fully understood, but the study's results provide a foundation for future research into this topic.",
+    "source": "The blind mind No sensory visual imagery in aphantasia.pdf"
+  },
+  {
+    "question": "What is aphantasia and how does it affect individuals",
+    "expected_answer": "Aphantasia refers to the inability to generate mental images, meaning individuals affected by it cannot experience the sensory qualities of objects that are not physically presented to them.",
+    "source": "Visual working memory performance in aphantasia.pdf"
+  },
+  {
+    "question": "Why is the study of aphantasia important for understanding visual cognition",
+    "expected_answer": "The study of aphantasia offers a new model for studying the functional role of mental imagery in visual cognition, as it allows researchers to investigate whether a lack of mental imagery can be linked to specific impairments in cognitive functioning.",
+    "source": "Visual working memory performance in aphantasia.pdf"
+  },
+  {
+    "question": "How did the aphantasic individual perform on visual working memory trials compared to controls",
+    "expected_answer": "The aphantasic individual performed significantly worse than controls on the most difficult visual working memory trials, which require the highest degree of precision.",
+    "source": "Visual working memory performance in aphantasia.pdf"
+  },
+  {
+    "question": "What can be inferred about the role of mental imagery in visual working memory based on the study's findings",
+    "expected_answer": "The study suggests that mental imagery has a functional role in high-precision working memory, but it is not a prerequisite for adequate performance in all visual working memory tasks.",
+    "source": "Visual working memory performance in aphantasia.pdf"
+  },
+  {
+    "question": "How does the performance of the aphantasic individual on tasks involving mental imagery compare to that of controls",
+    "expected_answer": "The aphantasic individual's performance on a task designed to involve mental imagery did not differ from controls, although she lacked metacognitive insight into her performance, indicating that she may have used alternative cognitive strategies to compensate for her lack of mental imagery.",
+    "source": "Visual working memory performance in aphantasia.pdf"
+  },
+  {
+    "question": "What do both papers agree on regarding aphantasia?",
+    "expected_answer": "Both papers agree that aphantasia involves a genuine lack of visual mental imagery rather than a lack of self-insight or metacognition, and that this absence of imagery can be studied objectively -- one paper through binocular rivalry and questionnaires, the other through visual working memory task performance.",
+    "source": ["The blind mind No sensory visual imagery in aphantasia.pdf", "Visual working memory performance in aphantasia.pdf"]
+  },
+  {
+    "question": "How do the two studies investigate aphantasia differently?",
+    "expected_answer": "The blind mind study investigates aphantasia broadly across a group of self-described aphantasic participants using questionnaires and a binocular rivalry priming paradigm to measure sensory imagery. The visual working memory study instead focuses on a single aphantasic individual's performance on precision-based visual working memory tasks compared to controls.",
+    "source": ["The blind mind No sensory visual imagery in aphantasia.pdf", "Visual working memory performance in aphantasia.pdf"]
+  },
+  {
+    "question": "What evidence from both papers supports the existence of aphantasia as a real phenomenon?",
+    "expected_answer": "The blind mind paper provides evidence through reduced imagery-based rivalry priming and lower self-rated visual imagery scores in aphantasic participants. The visual working memory paper adds evidence by showing measurable, task-specific performance differences (worse performance on high-precision visual working memory trials) in an aphantasic individual, showing the condition has real cognitive consequences, not just a self-reported label.",
+    "source": ["The blind mind No sensory visual imagery in aphantasia.pdf", "Visual working memory performance in aphantasia.pdf"]
+  },
+  {
+    "question": "Which paper uses a larger or more diverse participant group, and why might that matter?",
+    "expected_answer": "The blind mind paper studies a larger group of self-described aphantasic participants recruited more broadly, while the visual working memory paper focuses on a single aphantasic individual compared against controls. The larger group allows broader claims about aphantasia as a general phenomenon, while the single-case design allows deeper, more precise testing of one individual's cognitive performance.",
+    "source": ["The blind mind No sensory visual imagery in aphantasia.pdf", "Visual working memory performance in aphantasia.pdf"]
+  },
+  {
+    "question": "If someone read only one of these two papers, what would they be missing about aphantasia?",
+    "expected_answer": "Reading only the blind mind paper would miss the concrete behavioral evidence that aphantasia affects performance on specific cognitive tasks like high-precision visual working memory. Reading only the visual working memory paper would miss the broader characterization of aphantasia as a genuine sensory/phenomenal phenomenon supported by self-report measures and rivalry-based imagery testing across a wider participant group.",
+    "source": ["The blind mind No sensory visual imagery in aphantasia.pdf", "Visual working memory performance in aphantasia.pdf"]
+  }
+]
